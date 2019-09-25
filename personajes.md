@@ -7,3 +7,4 @@ Sansa Stark
 Jaime Lannister
 Brienne de Tarth
 Theon Greyjoy
+otro personaje
